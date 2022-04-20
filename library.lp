@@ -1,0 +1,10 @@
+(librepcb_library 80b9c9e5-94fe-4462-a1e8-81e98bd36ac8
+ (name "Nexperia")
+ (description "This is a unofficial testing LibrePCB library")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2021-11-07T21:09:47Z)
+ (deprecated false)
+ (url "")
+)
